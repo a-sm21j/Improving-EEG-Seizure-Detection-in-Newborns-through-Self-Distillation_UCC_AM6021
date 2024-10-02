@@ -6,7 +6,7 @@ This repository contains 4 Jupyter notebooks, providing a step-by-step guide to 
 ### Contents:
 
 1. **Preprocessing the EEG Data**
-   - The notebook *EEG_Preprocess* outlines the preprocessing steps for the neonatal EEG dataset from the Helsinki University Hospital.
+   - The notebook *EEG_Preprocess(compressed)* outlines the preprocessing steps for the neonatal EEG dataset from the Helsinki University Hospital. Outputs have been cleared to reduce file size.
 
 2. **Building the Base and Ideal Models**
    - The notebook *EEG_Base_Ideal_model* explains the creation of the base/self-distillation model and an ideal model using the same 1D CNN architecture, along with their training and evaluation.
